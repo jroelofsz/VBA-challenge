@@ -10,8 +10,8 @@ We will use VBA to run a few scripts on static data and then use
 the scripts to update data automatically and calculate trends off of the data.
 
 
-### Technology Used ###
- > Excel
- > VBA
+### Technology Used ##
+- Excel
+- VBA
  
 
