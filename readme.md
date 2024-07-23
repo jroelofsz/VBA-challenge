@@ -18,31 +18,31 @@ the scripts to update data automatically and calculate trends off of the data.
  
  
 ###Retrievel of Data
-- [ ] ticker symbol
-- [ ] volume of stock
-- [ ] open price
-- [ ] close price
+- [x] ticker symbol
+- [x] volume of stock
+- [x] open price
+- [x] close price
 
 ###Column Creation
-- [ ] ticker symbol
-- [ ] total stock volume
-- [ ] quarterly change
-- [ ] percent change
+- [x] ticker symbol
+- [x] total stock volume
+- [x] quarterly change
+- [x] percent change
 
 ###Conditional Formatting
-- [ ] Formatting is applied correctly and appropriately to the quarterly change column
-- [ ] Formatting is applied correct and appripriately to the percent change column
+- [x] Formatting is applied correctly and appropriately to the quarterly change column
+- [x] Formatting is applied correct and appripriately to the percent change column
 
 ###Calculated Values
-- [ ] Greatest % increase
-- [ ] Greatest % decrease
-- [ ] Greatest Total Volume
+- [x] Greatest % increase
+- [x] Greatest % decrease
+- [x] Greatest Total Volume
 
 ###Looping Across Worksheet
-- [ ] VBA Script can run on all sheets successfully
+- [x] VBA Script can run on all sheets successfully
 
 ###GitHub/GitLab Submission
-- [ ] Screenshots of the results
+- [x] Screenshots of the results
 - [ ] Separate VBA script files
-- [ ] README file
+- [x] README file
 
