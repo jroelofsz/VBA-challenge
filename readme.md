@@ -43,6 +43,6 @@ the scripts to update data automatically and calculate trends off of the data.
 
 ###GitHub/GitLab Submission
 - [x] Screenshots of the results
-- [ ] Separate VBA script files
+- [x] Separate VBA script files
 - [x] README file
 
